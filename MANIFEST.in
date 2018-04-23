@@ -1,0 +1,4 @@
+include pdg/data/ParticleTable.txt
+include pdg/data/2017/*
+include pdg/data/2017/*/*
+
